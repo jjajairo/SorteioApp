@@ -1,6 +1,6 @@
 # App de Sorteio de Números
 
-Primeiro projeto desenvolvido durante a disciplina de Programação para Dispositivos Móveis, utilizando a IDE AndroidStudio e linguajem Java.
+Primeiro projeto desenvolvido durante a disciplina de Programação para Dispositivos Móveis, utilizando a IDE AndroidStudio e linguagem Java.
 
 ## Função
 
